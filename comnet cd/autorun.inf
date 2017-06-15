@@ -1,0 +1,4 @@
+[autorun]
+icon=comnet.ico
+Label=COMNET_2016
+shellexecute=AUTORUN/index.html
